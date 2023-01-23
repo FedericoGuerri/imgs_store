@@ -1,0 +1,12 @@
+1. Privacy policy
+To access <appName> unlimited features you can subscribe.
+Auto-renewing subscription (“Yearly Premium”) price is 0,99 USD / 0,99 EUR per year; length of subscription is one year (Auto-renewing)
+prices vary by country; please check the specific terms that apply to you at the time of purchase, displayed in the app and on the purchase confirmation alert.
+Payment is charged to iTunes Account at the confirmation of the purchase.
+Subscription automatically renews for the same price and duration period unless auto renew is turned off at least 24 hours before the end of the current period.
+Account will be charged for renewal within 24 hours prior the end of the current period at the cost of the yearly package.
+Subscriptions may be managed by the user and auto renewal may be turned off by logging to the users iTunes Account Settings.
+No cancellation of the current subscription is allowed during active subscription period.
+You may cancel a subscription during its free trial period via the subscription setting in the logging to the users iTunes Account. This must be done 24 hours before the end of the subscription period to avoid being charged.
+Unused portions of a free-trial period are forfeited upon subscription purchase.
+Please visit https://support.apple.com/ for more information.
